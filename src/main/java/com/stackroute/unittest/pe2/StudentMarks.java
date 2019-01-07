@@ -2,7 +2,7 @@ package com.stackroute.unittest.pe2;
 
 import java.util.Scanner;
 
-public class Student {
+public class StudentMarks {
 
         public static void main(String args[])
         {
@@ -11,10 +11,10 @@ public class Student {
 
             int a[] = new int[]{1,2,3,4,5};
 
-            Student qs = new Student();
-            System.out.println(qs.maximum(number,a));
-            System.out.println(qs.minimum(number,a));
-            System.out.println(qs.average(number,a));
+            StudentMarks obj = new StudentMarks();
+            System.out.println(obj.maximum(number,a));
+            System.out.println(obj.minimum(number,a));
+            System.out.println(obj.average(number,a));
 
 
         }

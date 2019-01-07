@@ -1,16 +1,16 @@
 package com.stackroute.unittest.pe2;
 
-public class Other {
+public class MemberVar {
 
     Member q3=new Member("akshay",22,50000);
 
     public static  void main(String args[])
     {
 
-        Other q3_other=new Other();
-        System.out.println(q3_other.name());
-        System.out.println(q3_other.age());
-        System.out.println(q3_other.salary());
+        MemberVar obj=new MemberVar();
+        System.out.println(obj.name());
+        System.out.println(obj.age());
+        System.out.println(obj.salary());
 
 
     }

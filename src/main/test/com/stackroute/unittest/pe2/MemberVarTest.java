@@ -6,29 +6,33 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class ReverseTest {
+public class MemberVarTest {
 
-    Reverse q1;
+    Other q3;
     @Before
     public void setUp() throws Exception {
-        q1=new Reverse();
+
+        q3=new MemberVar();
     }
 
     @After
     public void tearDown() throws Exception {
-    }
-
-
-    @Test
-    public void reverse() {
-
-        assertEquals("cba",q1.reverse("abc"));
-
+        q3=null;
     }
 
     @Test
-    public void ispallindrome() {
+    public void name() {
+        assertEquals("akshay",q3.name());
+    }
 
-        assertEquals(true,q1.ispallindrome("racecar"));
+    @Test
+    public void age() {
+        assertEquals(22,q3.age());
+
+    }
+
+    @Test
+    public void salary() {
+        assertEquals(50000,q3.salary(),0);
     }
 }

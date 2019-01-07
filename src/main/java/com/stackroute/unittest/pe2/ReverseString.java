@@ -3,16 +3,16 @@ package com.stackroute.unittest.pe2;
 import java.awt.peer.SystemTrayPeer;
 import java.util.Scanner;
 
-public class Reverse {
+public class ReverseString {
 
     public static void main(String args[])
     {
         System.out.println("enter your string");
         Scanner sc=new Scanner(System.in);
         String str=sc.next();
-        Reverse q1 = new Reverse();
-        System.out.println(q1.ispallindrome(str));
-        System.out.println(q1.reverse(str));
+        ReverseString obj = new ReverseString();
+        System.out.println(obj.ispallindrome(str));
+        System.out.println(obj.reverse(str));
     }
 
     public String reverse( String str1)

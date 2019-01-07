@@ -14,7 +14,7 @@ public class StudentTest {
     public void setUp() throws Exception {
 
 
-        q6=new Student();
+        q6=new StudentMarks();
 
     }
 
