@@ -1,2 +1,1 @@
-# junit
-JUnit Examples
+PE 2 with test cases
