@@ -19,7 +19,12 @@ public class PowerOfFourTest {
     }
 
     @Test
-    public void ispower4() {
-        assertEquals(false,q2.ispower4(3));
+    public void isPowerFailure() {
+        assertEquals(false,q2.isPowerFour(3));
+    }
+
+    @Test
+    public void isPowerSuccess() {
+        assertEquals(true,q2.isPowerFour(16));
     }
 }

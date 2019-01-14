@@ -3,6 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="4b04b7f0-c1f3-4671-a5dc-5585c0dbb369" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EmployeeEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/MemberVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/MemberVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/PowerOfFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/PowerOfFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EmployeeEmailTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EvenNumTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EvenNumTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/FactorialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberVarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberVarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/PowerOfFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/PowerOfFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/StudentMarksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/StudentMarksTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +31,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -25,47 +43,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Other.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Reverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="30">
+              <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,17 +67,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/FactorialTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/OtherTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberVarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="390">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/MemberVar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,8 +101,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/PowerOfFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="135">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/PowerOfFourTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/StudentMarks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,14 +180,23 @@
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/PowerOfFour.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q5_iseven.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/Q5_isevenTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/PowerOfFour.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/FactorialTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Reverse.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/OtherTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Other.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EvenNumTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/FactorialTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberVarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/PowerOfFourTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/MemberVar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/PowerOfFour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/StudentMarks.java" />
       </list>
     </option>
   </component>
@@ -199,14 +254,6 @@
             </path>
             <path>
               <item name="unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="pe2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unittest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -217,11 +264,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546499789954" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547477192991" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../assignment-solution-step1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PE3" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -249,51 +296,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Other">
+  <component name="RunManager" selected="JUnit.com.stackroute.unittest.pe2 in unittest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.Factorial" />
-      <module name="unittest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.Other" />
-      <module name="unittest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.Student" />
-      <module name="unittest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -321,7 +326,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OtherTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MemberVarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittest" />
       <extension name="coverage">
         <pattern>
@@ -330,15 +335,47 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.OtherTest" />
-      <option name="METHOD_NAME" value="name" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.MemberVarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerOfFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.PowerOfFourTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerOfFourTest.isPowerFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.PowerOfFourTest" />
+      <option name="METHOD_NAME" value="isPowerFailure" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTest.ispallindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittest" />
       <extension name="coverage">
         <pattern>
@@ -347,15 +384,30 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.ReverseTest" />
-      <option name="METHOD_NAME" value="ispallindrome" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.unittest.pe2.ReverseStringTest" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.stackroute.unittest.pe2 in unittest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.unittest.pe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.unittest.pe2" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -380,11 +432,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Other" />
-        <item itemvalue="JUnit.OtherTest.name" />
-        <item itemvalue="JUnit.ReverseTest.ispallindrome" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Student" />
+        <item itemvalue="JUnit.com.stackroute.unittest.pe2 in unittest" />
+        <item itemvalue="JUnit.PowerOfFourTest.isPowerFailure" />
+        <item itemvalue="JUnit.PowerOfFourTest" />
+        <item itemvalue="JUnit.ReverseStringTest" />
+        <item itemvalue="JUnit.MemberVarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -402,41 +454,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseTest - 2019.01.03 at 10h 33m 56s.xml">
-      <configuration name="ReverseTest" configurationId="JUnit" />
+    <history-entry file="com_stackroute_unittest_pe2_in_unittest - 2019.01.14 at 19h 58m 08s.xml">
+      <configuration name="com.stackroute.unittest.pe2 in unittest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseTest - 2019.01.03 at 10h 34m 52s.xml">
-      <configuration name="ReverseTest" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest - 2019.01.14 at 19h 59m 06s.xml">
+      <configuration name="EvenNumTestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseTest_ispallindrome - 2019.01.03 at 10h 37m 59s.xml">
-      <configuration name="ReverseTest.ispallindrome" configurationId="JUnit" />
+    <history-entry file="FactorialTest - 2019.01.14 at 19h 59m 16s.xml">
+      <configuration name="FactorialTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseTest_ispallindrome - 2019.01.03 at 10h 38m 46s.xml">
-      <configuration name="ReverseTest.ispallindrome" configurationId="JUnit" />
+    <history-entry file="MemberVarTest - 2019.01.14 at 19h 59m 35s.xml">
+      <configuration name="MemberVarTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PowerOfFourTest_ispower4 - 2019.01.03 at 10h 46m 02s.xml">
-      <configuration name="PowerOfFourTest.ispower4" configurationId="JUnit" />
+    <history-entry file="com_stackroute_unittest_pe2_in_unittest - 2019.01.14 at 20h 00m 08s.xml">
+      <configuration name="com.stackroute.unittest.pe2 in unittest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EvenNumTestTest_isEvenSuccess - 2019.01.03 at 10h 55m 12s.xml">
-      <configuration name="EvenNumTestTest.isEvenSuccess" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest - 2019.01.14 at 20h 02m 24s.xml">
+      <configuration name="ReverseStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EvenNumTestTest_isEvenFailure - 2019.01.03 at 10h 55m 21s.xml">
-      <configuration name="EvenNumTestTest.isEvenFailure" configurationId="JUnit" />
+    <history-entry file="PowerOfFourTest - 2019.01.14 at 20h 05m 03s.xml">
+      <configuration name="PowerOfFourTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FactorialTest_factorial - 2019.01.03 at 11h 00m 39s.xml">
-      <configuration name="FactorialTest.factorial" configurationId="JUnit" />
+    <history-entry file="PowerOfFourTest_isPowerFailure - 2019.01.14 at 20h 05m 23s.xml">
+      <configuration name="PowerOfFourTest.isPowerFailure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseTest_ispallindrome - 2019.01.03 at 12h 02m 16s.xml">
-      <configuration name="ReverseTest.ispallindrome" configurationId="JUnit" />
+    <history-entry file="com_stackroute_unittest_pe2_in_unittest - 2019.01.14 at 20h 05m 52s.xml">
+      <configuration name="com.stackroute.unittest.pe2 in unittest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherTest_name - 2019.01.03 at 12h 10m 12s.xml">
-      <configuration name="OtherTest.name" configurationId="JUnit" />
+    <history-entry file="com_stackroute_unittest_pe2_in_unittest - 2019.01.14 at 20h 16m 35s.xml">
+      <configuration name="com.stackroute.unittest.pe2 in unittest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -529,27 +581,8 @@
     <entry file="file://$PROJECT_DIR$/unittest.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EmployeeEmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/Q4_toupperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EmployeeEmailTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/Q4_toupperTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EmployeeEmailTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q2_powerof4.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q7_factorial.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/Q7_factorialTest.java" />
@@ -561,100 +594,135 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q3_other.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q5_iseven.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/Q3_otherTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/PowerOfFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q3_Member.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/Q5_isevenTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q6_student.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q4_toupper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Reverse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/OtherTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Other.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EmployeeEmail.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Q4_toupper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/StudentMarksTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EvenNumTestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="129">
+          <caret line="11" column="35" selection-start-line="11" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/ReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/EvenNumTestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="240">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/EvenNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/FactorialTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/OtherTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/MemberVarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="390">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/unittest/pe2/PowerOfFourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/MemberVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/PowerOfFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Other.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/unittest/pe2/Member.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6,13 +6,14 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class StudentTest {
+public class StudentMarksTest {
 
-    Student q6;
+    StudentMarks q6;
     int a[] = new int[]{1,2,3,4,5};
     @Before
     public void setUp() throws Exception {
 
+        int a[] = new int[]{1,2,3,4,5};
 
         q6=new StudentMarks();
 

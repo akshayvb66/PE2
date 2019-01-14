@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 public class ReverseStringTest {
 
-    Reverse q1;
+    ReverseString q1;
     @Before
     public void setUp() throws Exception {
         q1=new ReverseString();
@@ -20,7 +20,7 @@ public class ReverseStringTest {
 
 
     @Test
-    public void reverse() {
+    public void reverseString() {
 
         assertEquals("cba",q1.reverse("abc"));
 
@@ -29,6 +29,6 @@ public class ReverseStringTest {
     @Test
     public void ispallindrome() {
 
-        assertEquals(true,q1.ispallindrome("racecar"));
+        assertEquals(true,q1.isPallindrome("racecar"));
     }
 }

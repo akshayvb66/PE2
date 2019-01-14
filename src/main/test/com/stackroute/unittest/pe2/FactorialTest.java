@@ -6,6 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+
 public class FactorialTest {
 
     Factorial test;
@@ -22,7 +23,12 @@ public class FactorialTest {
 
     @Test
     public void factorial() {
-
         assertEquals(24,test.factorial(4));
+    }
+
+    @Test
+    public void factorialFailure() {
+        assertNotEquals(23,test.factorial(4));
+
     }
 }

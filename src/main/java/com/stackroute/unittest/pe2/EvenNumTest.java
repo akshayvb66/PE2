@@ -1,26 +1,23 @@
+/**
+ *Akshay Badiger
+ *
+ *Boeing India Pvt Ltd
+ *
+ * Stackroute
+ */
 package com.stackroute.unittest.pe2;
-
-import java.util.Scanner;
+/**Write a boolean method called isEven() in a class called EvenNumTest, which takes an int as input and returns true if the input is even.
+ * The signature of the method is as follows: public static boolean isEven(int number)
+ *
+ * @version 1.0 11-1-2018
+ *
+ * @author Akshay Badiger
+ */
 
 public class EvenNumTest {
-
-    public static void main(String args[])
-    {
-        System.out.println("enter your number");
-        Scanner sc = new Scanner(System.in);
-        int n=sc.nextInt();
-        System.out.println(isEven(n));
-
-    }
-
-    public static boolean isEven(int n)
-    {
-
+    public static boolean isEven(int n) {
         if(n%2==0)
             return true;
         else
-            return false;
-    }
-
-
+            return false; }
 }

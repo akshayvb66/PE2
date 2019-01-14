@@ -20,6 +20,7 @@ public class EvenNumTestTest {
     public void isEvenSuccess() {
         assertEquals(true,EvenNumTest.isEven(2));
     }
+
     @Test
     public void isEvenFailure() {
         assertNotEquals(false,EvenNumTest.isEven(4));

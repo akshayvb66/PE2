@@ -1,34 +1,22 @@
+/**
+ *Akshay Badiger
+ *
+ *Boeing India Pvt Ltd
+ *
+ * Stackroute
+ */
 package com.stackroute.unittest.pe2;
-
-import java.util.Scanner;
+/**Write a program to list all the factorials, that can be expressed as an int (i.e., 32-bit signed integer).
+ *
+ * @version 1.0 11-1-2018
+ *
+ * @author Akshay Badiger
+ */
 
 public class Factorial {
-
-
-   public static void main(String args[])
-    {
-
-        System.out.println("enter number ");
-        Scanner ob = new Scanner(System.in);
-        int n=ob.nextInt();
-        Factorial obj=new Factorial();
-
-        System.out.println("The factorial of "+ n+ " is " + obj.factorial(n));
-
-
-    }
-
     public long factorial(int number) {
         long result = 1;
-
         for (int factor = 2; factor <= number; factor++) {
-            result *= factor;
-        }
-
-        return result;
-    }
-
- 
-
-
+            result *= factor; }
+        return result; }
 }

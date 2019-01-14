@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 public class MemberVarTest {
 
-    Other q3;
+    MemberVar q3;
     @Before
     public void setUp() throws Exception {
 
@@ -27,12 +27,9 @@ public class MemberVarTest {
 
     @Test
     public void age() {
-        assertEquals(22,q3.age());
-
-    }
+        assertEquals(22,q3.age()); }
 
     @Test
     public void salary() {
         assertEquals(50000,q3.salary(),0);
-    }
-}
+    }}
