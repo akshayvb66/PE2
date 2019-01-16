@@ -14,13 +14,13 @@ package com.stackroute.unittest.pe2;
  */
 
 public class PowerOfFour {
-    public boolean isPowerFour(long n) {
-        if(n == 0)
+    public boolean isPowerFour(long number) {
+        if(number == 0)
         return false;
-        while(n != 1)
+        while(number != 1)
         {
-            if(n % 4 != 0)
+            if(number % 4 != 0)
                 return false;
-            n = n / 4;
+            number = number / 4;
         }
         return true; }}

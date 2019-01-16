@@ -18,26 +18,26 @@ package com.stackroute.unittest.pe2;
  */
 
 public class StudentMarks {
-        public int minimum(int num, int arr[]){
-            int min = arr[0];
-            for(int i = 0; i < num; i++){
-                if(arr[i] < min){
-                    min = arr[i];
+        public int minimum(int number, int array[]){
+            int min = array[0];
+            for(int i = 0; i < number; i++){
+                if(array[i] < min){
+                    min = array[i];
                 } }
             return min;
         }
-        public int maximum(int num, int arr[]){
-            int max = arr[0];
-            for(int i = 0; i < num; i++){
-                if(arr[i] > max){
-                    max = arr[i]; }
+        public int maximum(int number, int array[]){
+            int max = array[0];
+            for(int i = 0; i < number; i++){
+                if(array[i] > max){
+                    max = array[i]; }
             }
             return max; }
-        public float average(int num , int arr[]){
+        public float average(int number , int array[]){
             float sum = 0;
-            if(num != 0) {
-                for (int i = 0; i < num; i++) {
-                    sum += arr[i]; }
-                return (sum / num); }
+            if(number != 0) {
+                for (int i = 0; i < number; i++) {
+                    sum += array[i]; }
+                return (sum / number); }
             else
                 return -1; }}
